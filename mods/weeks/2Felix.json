@@ -1,0 +1,32 @@
+{
+	"storyName": "Felix mega imba)))))))))))))))))))",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "Felix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "1Mitaka",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"unexpected-start",
+			"Felix",
+			[
+				206,
+				140,
+				153
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "2Felix",
+	"hiddenUntilUnlocked": true
+}

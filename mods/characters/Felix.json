@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Felix Left"
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Felix Down"
+		},
+		{
+			"offsets": [
+				-75,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Felix Up"
+		},
+		{
+			"offsets": [
+				-164,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Felix Right"
+		},
+		{
+			"offsets": [
+				-70,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Felix Up"
+		},
+		{
+			"offsets": [
+				-40,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Felix Down"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Felix Left"
+		},
+		{
+			"offsets": [
+				-160,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Felix Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Felix Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 20,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Felix Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "Cool",
+			"fps": 20,
+			"name": "Felix Cool",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Felix",
+	"position": [
+		-600,
+		-1020
+	],
+	"healthicon": "Felix",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		1100,
+		1020
+	],
+	"sing_duration": 6.1,
+	"scale": 0.25
+}

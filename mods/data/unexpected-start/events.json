@@ -1,0 +1,19 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "last-corridor",
+		"player1": "MitakaPlayer",
+		"player2": "Felix",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "None",
+		"bpm": 213,
+		"mania": 5,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "unexpected-start"
+	}
+}

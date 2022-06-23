@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "FelixGlitch Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "FelixGlitch Idle"
+		},
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "FelixGlitch Left"
+		},
+		{
+			"offsets": [
+				-44,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FelixGlitch Down"
+		},
+		{
+			"offsets": [
+				-75,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "FelixGlitch Up"
+		},
+		{
+			"offsets": [
+				-164,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "FelixGlitch Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FelixGlitch",
+	"position": [
+		-600,
+		-1020
+	],
+	"healthicon": "FelixGlitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		1100,
+		1020
+	],
+	"sing_duration": 6.1,
+	"scale": 0.25
+}

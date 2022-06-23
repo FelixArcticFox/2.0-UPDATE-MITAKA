@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MitakaPotret2.png">
+<SubTexture name="MitakaPotret2 Idle0000" x="1006" y="0" width="1050" height="1344" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0000" x="1006" y="0" width="1050" height="1344" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0001" x="2056" y="0" width="1050" height="1343" frameX="-152" frameY="-142" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0002" x="928" y="1348" width="1032" height="1341" frameX="-170" frameY="-144" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0003" x="0" y="0" width="1006" height="1348" frameX="-196" frameY="-137" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0004" x="1960" y="1348" width="973" height="1340" frameX="-229" frameY="-145" frameWidth="1440" frameHeight="1485" />
+<SubTexture name="MitakaPotret2 Normal0005" x="0" y="1348" width="928" height="1342" frameX="-274" frameY="-143" frameWidth="1440" frameHeight="1485" />
+</TextureAtlas>

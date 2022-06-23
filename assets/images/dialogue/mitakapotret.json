@@ -1,0 +1,24 @@
+{
+	"position": [
+		-370,
+		-540
+	],
+	"dialogue_pos": "left",
+	"scale": 0.399999999999999,
+	"image": "MitakaPotret2",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "MitakaPotret2 Idle",
+			"loop_name": "MitakaPotret2 Normal"
+		}
+	]
+}

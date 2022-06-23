@@ -1,0 +1,58 @@
+{
+	"storyName": "Extra",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"omelo-funkin",
+			"chineseRydify",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"beep-power",
+			"brakora",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"flexational",
+			"Felix",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"sliced",
+			"Felix",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "3Extra"
+}

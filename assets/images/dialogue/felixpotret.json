@@ -1,0 +1,37 @@
+{
+	"position": [
+		-650,
+		-540
+	],
+	"dialogue_pos": "left",
+	"scale": 0.499999999999999,
+	"image": "FelixPotret",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"anim": "talk",
+			"idle_name": "FelixPotret Idle2",
+			"loop_name": "FelixPotret Normal"
+		},
+		{
+			"loop_offsets": [
+				1,
+				-12
+			],
+			"anim": "flirt",
+			"idle_offsets": [
+				1,
+				-12
+			],
+			"loop_name": "FelixPotret Flirt",
+			"idle_name": "FelixPotret Idle2"
+		}
+	]
+}

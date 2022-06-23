@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mitaka.png"><SubTexture name="Mitaka Idle0000" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0001" x="4572" y="0" width="1015" height="2361" frameX="-181" frameY="-147" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0002" x="0" y="2495" width="987" height="2358" frameX="-199" frameY="-150" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0003" x="987" y="2495" width="933" height="2356" frameX="-238" frameY="-153" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0004" x="3047" y="2495" width="940" height="2341" frameX="-220" frameY="-169" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0005" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0006" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0007" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0008" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Idle0009" x="3522" y="0" width="1050" height="2367" frameX="-152" frameY="-141" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Left0000" x="1920" y="2495" width="1127" height="2356" frameX="-298" frameY="-127" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Left0001" x="3987" y="2495" width="1178" height="2334" frameX="-214" frameY="-120" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Left0002" x="6725" y="0" width="1248" height="2330" frameX="-177" frameY="-126" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Left0003" x="6725" y="2330" width="1233" height="2325" frameX="-140" frameY="-122" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Right0000" x="5587" y="2332" width="1085" height="2331" frameX="-227" frameY="-156" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Right0001" x="0" y="4853" width="1133" height="2312" frameX="-201" frameY="-163" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Right0002" x="3367" y="4853" width="1201" height="2294" frameX="-162" frameY="-174" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Right0003" x="5695" y="4853" width="1268" height="2281" frameX="-121" frameY="-173" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Up0000" x="2310" y="0" width="1212" height="2466" frameX="-49" frameY="-29" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Up0001" x="1151" y="0" width="1159" height="2489" frameX="-102" frameY="-6" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Up0002" x="0" y="0" width="1151" height="2495" frameX="-110" frameY="0" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Down0000" x="5587" y="0" width="1138" height="2332" frameX="-34" frameY="-163" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Down0001" x="4568" y="4853" width="1127" height="2287" frameX="-37" frameY="-202" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Down0002" x="7973" y="0" width="1120" height="2258" frameX="-15" frameY="-215" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Down0003" x="9093" y="0" width="1129" height="2235" frameX="0" frameY="-221" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Dodge0000" x="1133" y="4853" width="1117" height="2305" frameX="-125" frameY="-164" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Dodge0001" x="2250" y="4853" width="1117" height="2305" frameX="-125" frameY="-164" frameWidth="1440" frameHeight="2560" />
+<SubTexture name="Mitaka Dodge0002" x="1133" y="4853" width="1117" height="2305" frameX="-125" frameY="-164" frameWidth="1440" frameHeight="2560" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "last-corridor",
+		"player1": "MitakaPlayer",
+		"player2": "Felix",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "flexational"
+	}
+}

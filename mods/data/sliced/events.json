@@ -1,0 +1,19 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "citymall",
+		"player1": "MitakaPlayer",
+		"player2": "Felix",
+		"player3": null,
+		"events": [],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "None",
+		"bpm": 203,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "sliced"
+	}
+}

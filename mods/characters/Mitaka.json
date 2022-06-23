@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				-25
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mitaka Up"
+		},
+		{
+			"offsets": [
+				1,
+				-40
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "dodge",
+			"indices": [],
+			"name": "Mitaka Dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-47
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "Mitaka Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-42
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "Mitaka Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "Mitaka Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "Mitaka Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mitaka",
+	"position": [
+		-420,
+		-1020
+	],
+	"healthicon": "mitaka",
+	"flip_x": false,
+	"healthbar_colors": [
+		192,
+		133,
+		107
+	],
+	"camera_position": [
+		420,
+		1020
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

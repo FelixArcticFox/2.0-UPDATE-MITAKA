@@ -1,0 +1,40 @@
+{
+	"storyName": "Chapter1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Mitaka",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"power-link",
+			"mitaka",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"temCore",
+			"mitaka",
+			[
+				206,
+				93,
+				193
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "1Mitaka"
+}
